@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    margin-right: 2em;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    color: teal;
+}
+label {
+    float: left;
+    width: 6em;
+    margin-bottom: 0.5em;
+}
+input[type="text"], input[type="email"] , input[type="date"] {
+    width: 15em;
+    margin-left: 0.7em;
+    margin-bottom: 0.7em;
+}
+br {
+    clear: both;
+}
